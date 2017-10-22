@@ -224,8 +224,8 @@ div {
 
 .tile-container {
   position: absolute;
-  right: 73%;
-  top: 50%;
+  right: 995px;
+  top: 380px;
   z-index: 2; 
 }
 
