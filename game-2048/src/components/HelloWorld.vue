@@ -138,7 +138,6 @@ div {
 
 .game-message {
   display: none;
-  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
@@ -165,7 +164,6 @@ div {
     width: 500px;
     height: 500px;
     box-sizing: border-box;
-    position: absolute;
 }
 
 .grid-cell {
@@ -201,7 +199,7 @@ div {
 }
 
 .game-message {
-  display: none;
+    display: none;
     position: absolute;
     top: 0;
     right: 0;
@@ -224,8 +222,8 @@ div {
 
 .tile-container {
   position: absolute;
-  right: 995px;
-  top: 380px;
+  right: 868px;
+  top: 355px;
   z-index: 2; 
 }
 
